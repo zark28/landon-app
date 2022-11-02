@@ -1,0 +1,24 @@
+[
+    {
+        "src":"intro_room",
+        "alt":"Room Sample Pictures"
+    },
+    {
+        "src":"intro_pool",
+        "alt":"Pool Sample Pictures"
+    },
+    {
+        "src":"intro_dining",
+        "alt":"Dining Sample Pictures"
+    },
+    {
+        "src":"intro_attractions",
+        "alt":"Attractions Sample Pictures"
+    },
+    {
+        "src":"intro_wedding",
+        "alt":"Wedding Sample Pictures",
+        "class":"hidesm"
+    }
+
+]

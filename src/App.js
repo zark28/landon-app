@@ -1,14 +1,20 @@
-import React from 'react'
+import React from 'react';
+import './App.css';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Main from './components/Main';
 
-
-const App = () => {
-  return (
-    <div>
-        <h2> Heloo my world </h2>
-        <p>React with AWS</p>
-            
-    </div>
-  )
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+     <Header/>
+<Main/>
+     
+      <Footer/>
+      </div>
+    );
+  }
 }
 
-export default App
+export default App;
